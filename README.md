@@ -6,8 +6,8 @@
 > I build the cloud.
 <br />
 
-- 🌱 &nbsp; I am coding IoT, Edge and Cloud Backends.
-- :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/bartoszadamlenart)**
+- :computer: &nbsp; I am coding IoT, Edge and Cloud Backends.
+- :technologist: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/bartoszadamlenart)**
 - 	<img src="https://komarev.com/ghpvc/?username=bartossh&label=Profile%20views&color=brightgreen&style=plastic" alt="Bartossh profile" /> 
 	<a href="https://github.com/bartossh?tab=followers"><img src="https://img.shields.io/github/followers/bartossh?label=Followers&style=social" alt="GitHub Badge"></a>
 <br><br><br><br>
@@ -23,6 +23,7 @@
 </p>
 
 <br><br><br><br><br><br><br><br>
+
 
 ## Main languages and technologies I am using.
 
