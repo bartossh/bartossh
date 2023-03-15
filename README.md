@@ -19,14 +19,15 @@
 <p>
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bartossh&langs_count=5&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="bartossh"  width="45%"/>
 </p>
+
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=bartossh&show_icons=true&locale=en&theme=chartreuse-dark" alt="bartossh" width="45%"/>
 </p>
 
 <br><br><br><br><br><br><br><br>
 
-<p><p/>
+<p height="30"><p/>
 
-## Main languages and technologies I am using.
+## My main languages and technologies:
 
 <p width="100%"/>
   <img  alt="go" src ="https://img.shields.io/badge/go-golang-blue?style=for-the-badge&logo=go&logoColor=blue"/>
