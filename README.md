@@ -35,6 +35,10 @@
   <img  alt="pt" src ="https://img.shields.io/badge/python-python-darkgreen?style=for-the-badge&logo=python&logoColor=darkgreen"/>
   <img  alt="mg" src ="https://img.shields.io/badge/mongo-mongo-green?style=for-the-badge&logo=mongodb&logoColor=green"/>
   <img  alt="sql" src ="https://img.shields.io/badge/postgresql-sql-lightblue?style=for-the-badge&logo=postgresql&logoColor=lightblue"/>
+<img  alt="k8s" src ="https://img.shields.io/badge/k8s-kubernetes-blue?style=for-the-badge&logo=kubernetes&logoColor=blue"/>
+<img  alt="k3s" src ="https://img.shields.io/badge/k3s-k3s-yellow?style=for-the-badge&logo=k3s&logoColor=yellow"/>
+<img  alt="docker" src ="https://img.shields.io/badge/docker-docker-lightblue?style=for-the-badge&logo=docker&logoColor=lightblue"/>
+	
 </div>
  
 <br><br><br><br>
