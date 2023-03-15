@@ -17,9 +17,9 @@
 </p>
  
 <p>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bartossh&langs_count=5&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="bartossh"  width="410"/>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bartossh&langs_count=5&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="bartossh"  width="300"/>
 </p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=bartossh&show_icons=true&locale=en&theme=chartreuse-dark" alt="bartossh" width="410"/>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=bartossh&show_icons=true&locale=en&theme=chartreuse-dark" alt="bartossh" width="300"/>
 </p>
 
 <br><br><br><br><br><br><br><br>
@@ -28,7 +28,7 @@
 ## Main languages and technologies I am using.
 
 
-<div>
+<p>
   <img  alt="go" src ="https://img.shields.io/badge/go-golang-blue?style=for-the-badge&logo=go&logoColor=blue"/>
   <img  alt="c" src ="https://img.shields.io/badge/c-clang-red?style=for-the-badge&logo=c&logoColor=brown"/>
   <img  alt="rust" src ="https://img.shields.io/badge/rust-rust-brown?style=for-the-badge&logo=rust&logoColor=brown"/>
@@ -40,6 +40,6 @@
 <img  alt="k3s" src ="https://img.shields.io/badge/k3s-k3s-yellow?style=for-the-badge&logo=k3s&logoColor=yellow"/>
 <img  alt="docker" src ="https://img.shields.io/badge/docker-docker-lightblue?style=for-the-badge&logo=docker&logoColor=lightblue"/>
 	
-</div>
+</p>
  
 <br><br><br><br>
