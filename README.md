@@ -1,7 +1,7 @@
 
- <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
+ <img align="right" height="405" alt="guy" width="535" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
  
-### Hi there 👋 I am Bartossh.
+## Hi 👋 I am Bartossh.
 
 > I build the cloud.
 <br />
@@ -24,11 +24,11 @@
 
 <br><br><br><br><br><br><br><br>
 
+<p><p/>
 
 ## Main languages and technologies I am using.
 
-
-<p>
+<p width="100%"/>
   <img  alt="go" src ="https://img.shields.io/badge/go-golang-blue?style=for-the-badge&logo=go&logoColor=blue"/>
   <img  alt="c" src ="https://img.shields.io/badge/c-clang-red?style=for-the-badge&logo=c&logoColor=brown"/>
   <img  alt="rust" src ="https://img.shields.io/badge/rust-rust-brown?style=for-the-badge&logo=rust&logoColor=brown"/>
