@@ -17,9 +17,9 @@
 </p>
  
 <p>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bartossh&langs_count=5&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="bartossh"  width="100%"/>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bartossh&langs_count=5&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="bartossh"  width="50%"/>
 </p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=bartossh&show_icons=true&locale=en&theme=chartreuse-dark" alt="bartossh" width="100%"/>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=bartossh&show_icons=true&locale=en&theme=chartreuse-dark" alt="bartossh" width="50%"/>
 </p>
 
 <br><br><br><br><br><br><br><br>
