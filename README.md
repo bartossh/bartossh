@@ -5,7 +5,7 @@
 <br />
 
 - :computer: &nbsp; `I build the Edge.`
-- 🧑‍🔬 &nbsp; `Contributing to entropy till the 80's.`
+- 🧑‍🔬 &nbsp; `Contributing to the entropy till the 80's.`
 - :technologist: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/bartoszadamlenart)**
 - 	<img src="https://komarev.com/ghpvc/?username=bartossh&label=Profile%20views&color=brightgreen&style=plastic" alt="Bartossh profile"/> 
 	<a href="https://github.com/bartossh?tab=followers"><img src="https://img.shields.io/github/followers/bartossh?label=Followers&style=social" alt="GitHub Badge"></a>
