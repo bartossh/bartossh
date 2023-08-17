@@ -11,16 +11,6 @@
 	<a href="https://github.com/bartossh?tab=followers"><img src="https://img.shields.io/github/followers/bartossh?label=Followers&style=social" alt="GitHub Badge"></a>
 <br><br><br><br>
 
-<p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
-</p>
- 
-<p>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bartossh&langs_count=6&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="bartossh" />
-</p>
-
-<br><br><br><br><br><br><br><br>
-
 <p height="30"><p/>
 
 ## My main languages and technologies:
