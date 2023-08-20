@@ -11,7 +11,7 @@
 	<a href="https://github.com/bartossh?tab=followers"><img src="https://img.shields.io/github/followers/bartossh?label=Followers&style=social" alt="GitHub Badge"></a>
 <br><br><br><br>
 
-<p height="30"><p/>
+<p height="60"><p/>
 
 ## My main languages and technologies:
 
