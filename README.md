@@ -15,17 +15,17 @@
 ## My main languages and technologies:
 
 <p width="100%"/>
-  <img  alt="go" src ="https://img.shields.io/badge/go-golang-blue?style=for-the-badge&logo=go&logoColor=blue"/>
-  <img  alt="c" src ="https://img.shields.io/badge/c-clang-red?style=for-the-badge&logo=c&logoColor=brown"/>
+  <img  alt="go" src ="https://img.shields.io/badge/go-blue"/>
+  <img  alt="c" src ="https://img.shields.io/badge/c-grey"/>
   <img  alt="zig" src ="https://img.shields.io/badge/zig-orange"/>
-  <img  alt="rust" src ="https://img.shields.io/badge/rust-rust-brown?style=for-the-badge&logo=rust&logoColor=red"/>
-  <img  alt="ts" src ="https://img.shields.io/badge/ts-typescript-idygo?style=for-the-badge&logo=ts&logoColor=indygo"/>
-  <img  alt="pt" src ="https://img.shields.io/badge/python-python-darkgreen?style=for-the-badge&logo=python&logoColor=darkgreen"/>
-  <img  alt="mg" src ="https://img.shields.io/badge/mongo-mongo-green?style=for-the-badge&logo=mongodb&logoColor=green"/>
-  <img  alt="sql" src ="https://img.shields.io/badge/postgresql-sql-lightblue?style=for-the-badge&logo=postgresql&logoColor=lightblue"/>
-  <img  alt="k8s" src ="https://img.shields.io/badge/k8s-kubernetes-blue?style=for-the-badge&logo=kubernetes&logoColor=blue"/>
-  <img  alt="k3s" src ="https://img.shields.io/badge/k3s-k3s-yellow?style=for-the-badge&logo=k3s&logoColor=yellow"/>
-  <img  alt="docker" src ="https://img.shields.io/badge/docker-docker-lightblue?style=for-the-badge&logo=docker&logoColor=lightblue"/>
+  <img  alt="rust" src ="https://img.shields.io/badge/rust-pink"/>
+  <img  alt="ts" src ="https://img.shields.io/badge/ts-brown"/>
+  <img  alt="pt" src ="https://img.shields.io/badge/python-yellow"/>
+  <img  alt="mg" src ="https://img.shields.io/badge/mongo-green"/>
+  <img  alt="sql" src ="https://img.shields.io/badge/postgres-blue"/>
+  <img  alt="k8s" src ="https://img.shields.io/badge/k8s-blue"/>
+  <img  alt="k3s" src ="https://img.shields.io/badge/k3s-yellow"/>
+  <img  alt="docker" src ="https://img.shields.io/badge/docker-blue"/>
 	
 </p>
  
