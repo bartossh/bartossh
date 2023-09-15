@@ -17,7 +17,7 @@
 <p width="100%"/>
   <img  alt="go" src ="https://img.shields.io/badge/go-golang-blue?style=for-the-badge&logo=go&logoColor=blue"/>
   <img  alt="c" src ="https://img.shields.io/badge/c-clang-red?style=for-the-badge&logo=c&logoColor=brown"/>
-  <img  alt="zig" src ="https://img.shields.io/badge/zig-orange?style=for-the-badge&logo=zig&logoColor=orange"/>
+  <img  alt="zig" src ="https://img.shields.io/badge/zig-orange"/>
   <img  alt="rust" src ="https://img.shields.io/badge/rust-rust-brown?style=for-the-badge&logo=rust&logoColor=red"/>
   <img  alt="ts" src ="https://img.shields.io/badge/ts-typescript-idygo?style=for-the-badge&logo=ts&logoColor=indygo"/>
   <img  alt="pt" src ="https://img.shields.io/badge/python-python-darkgreen?style=for-the-badge&logo=python&logoColor=darkgreen"/>
