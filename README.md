@@ -2,7 +2,7 @@
  <img align="right" height="370" alt="guy" width="410" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
  
 ## Hi 👋 I am Bartossh.
-<br />
+
 
 - :computer: &nbsp; I build the ☁️.
 - 🧮 &nbsp; Contributing to the entropy till the 80s.
@@ -29,4 +29,3 @@
 	
 </p>
  
-<br><br><br><br>
