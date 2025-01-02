@@ -3,7 +3,7 @@
  <img align="right" height="370" alt="guy" width="410" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
 <br>
 - :computer: &nbsp; I build the ☁️.
-- 🧮 &nbsp; Contributing to the entropy till the 80s.
+- 🧮 &nbsp; Contributing to the entropy from the 80s.
 - :technologist: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/bartoszadamlenart)**
 - 	<img src="https://komarev.com/ghpvc/?username=bartossh&label=Profile%20views&color=brightgreen&style=plastic" alt="Bartossh profile"/> 
 	<a href="https://github.com/bartossh?tab=followers"><img src="https://img.shields.io/github/followers/bartossh?label=Followers&style=social" alt="GitHub Badge"></a>
