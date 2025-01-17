@@ -2,7 +2,7 @@
 
  <img align="right" height="370" alt="guy" width="410" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
 <br>
-- :computer: &nbsp; I build the cloud ☁️ and cyber security tooling :ninja:.
+- :computer: &nbsp; I build the cloud ☁️ and staff :ninja:.
 - 🧮 &nbsp; Contributing to the entropy from the 80s.
 - :technologist: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/bartoszadamlenart)**
 - 	<img src="https://komarev.com/ghpvc/?username=bartossh&label=Profile%20views&color=brightgreen&style=plastic" alt="Bartossh profile"/> 
@@ -13,8 +13,8 @@
 ## My main languages and technologies:
 
 <p width="100%"/>
-  <img  alt="go" src ="https://img.shields.io/badge/go-blue"/>
   <img  alt="rust" src ="https://img.shields.io/badge/rust-pink"/>
+  <img  alt="go" src ="https://img.shields.io/badge/go-blue"/>
   <img  alt="c" src ="https://img.shields.io/badge/c-grey"/>
   <img  alt="zig" src ="https://img.shields.io/badge/zig-orange"/>
   <img  alt="ts" src ="https://img.shields.io/badge/ts-brown"/>
@@ -24,6 +24,5 @@
   <img  alt="k8s" src ="https://img.shields.io/badge/k8s-blue"/>
   <img  alt="k3s" src ="https://img.shields.io/badge/k3s-yellow"/>
   <img  alt="docker" src ="https://img.shields.io/badge/docker-blue"/>
-	
 </p>
  
